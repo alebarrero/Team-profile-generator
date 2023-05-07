@@ -3,7 +3,7 @@ An application that allows you to create a team profile based on certain questio
 The team profile will include a Manager,Employee,Engineer, and Intern.
 <br>
 
-##How to run application?
+# How to run application?
 Install the node packages with "npm i" within the application directory.
 Also, install the inquirer package to correcly run the user prompts with "npm i inquirer@8.2.4"
 Run the application with "node index" in the terminal command line.
